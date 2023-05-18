@@ -1,0 +1,2 @@
+module PostLmagesHelper
+end
